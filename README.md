@@ -8,8 +8,8 @@ O **Gunball OS** é um microkernel modular educacional desenvolvido em C e Assem
 
 ## 📷 Screenshots do Sistema
 
-### Shell Interativa e Terminal
-![Gunball OS Shell](https://raw.githubusercontent.com/linux-oxy-retro-cyber/gunball-kernel/main/imagens/Captura%20de%20tela%20de%202026-07-31%2001-17-14.png)
+### Shell Interativa e Terminal![Gunball OS Panic](https://raw.githubusercontent.com/linux-oxy-retro-cyber/gunball-kernel/main/imagens/Captura%20de%20tela%20de%202026-07-31%2001-17-05.png)
+
 ### Sistema de Kernel Panic (BSOD/Panic Screen)
 ![Gunball OS Panic](https://raw.githubusercontent.com/linux-oxy-retro-cyber/gunball-kernel/main/imagens/Captura%20de%20tela%20de%202026-07-31%2001-17-14.png)
 ---
